@@ -10,4 +10,10 @@ my_list_of_tuples = [(23.57019, 89.84970), (23.74452, 90.40152)]
 
 print(my_list_of_tuples)
 
+# Create a dictionary that contains different attributes about you: height, favorite color, favorite author etc.
 
+my_dictionary = {"name": "Sahar",
+                 "age": 5,
+                 "mother": "promy islam"}
+
+print(my_dictionary)
